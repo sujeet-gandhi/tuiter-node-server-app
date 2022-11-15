@@ -1,0 +1,27 @@
+[
+  { "_id":  123,
+    "avatarIcon": "../../images/bee.png",
+    "userName": "The Babylon Bee",
+    "handle": "TheBabylonBee" },
+
+  { "_id":  234,
+    "avatarIcon": "../../images/netflix.jpg",
+    "userName": "Netflix",
+    "handle": "netflix" },
+
+  { "_id":  345,
+    "avatarIcon": "../../images/nasa1.jpg",
+    "userName": "NASA",
+    "handle": "NASA" },
+
+  { "_id":  456,
+    "avatarIcon": "../../images/spacex1.jpg",
+    "userName": "Spacex",
+    "handle": "Spacex" },
+
+  { "_id":  567,
+    "avatarIcon": "../../images/linus.jpeg",
+    "userName": "Linus Torvalds",
+    "handle": "Linus_Torvalds"
+  }
+]

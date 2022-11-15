@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 123,
+    "username": "Elon Musk",
+    "handle": "@elonmusk",
+    "time": "2h",
+    "userImage": "../../images/elon.jpeg",
+    "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars",
+    "comments": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "liked": true
+  },
+  {
+    "_id": 234,
+    "username": "HBO",
+    "handle": "@hbo",
+    "tuit": "While we wait, If you’re interested in engaging with more of the Targaryen lore as well as ASOIAF in general, but are confused where to start… \n•\nHere is a thread on the books set within the TWOIAF that have been published by GRRM, and each of their purposes!",
+    "time": "21h",
+    "userImage": "../../images/hbo.webp",
+    "comments": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "liked": false
+  }
+]
