@@ -32,12 +32,6 @@ const updateTuit = (req, res) => {
     res.sendStatus(200);
 }
 
-
-
-
-
-
-
 export default (app) => {
     app.post('/api/tuits', createTuit);
     app.get('/api/tuits', findTuits);
