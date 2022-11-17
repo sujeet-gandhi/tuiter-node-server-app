@@ -3,7 +3,7 @@ let tuits = posts;
 
 const createTuit = (req, res) => {
     const newTuit = req.body;
-    newTuit._id = (new Date()).getTime()+'';
+    newTuit._id = parseInt((new Date()).getTime()+'');
     newTuit.likes = 0;
     newTuit.liked = false;
     tuits.push(newTuit);
@@ -31,6 +31,7 @@ const updateTuit = (req, res) => {
         {...tuits[tuitIndex], ...updates};
     res.sendStatus(200);
 }
+
 
 export default (app) => {
     app.post('/api/tuits', createTuit);
