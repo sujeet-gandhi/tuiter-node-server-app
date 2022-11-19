@@ -22,7 +22,7 @@ export default [
         "tuit": "Here's a sneak preview of \"Ciao Papa\" from GUILLERMO DEL TORO's PINOCCHIO. Now playing in select theaters and on Netflix December 9.\n" +
             "\n" +
             "Ciao Papa\" Written By Alexandre Desplat, Lyrics By Roeben Katz And Guillermo Del Toro. Performed By Gregory Mann. 🎶",
-        "liked": true, "likes": 455, "dislikes":101,"disliked": false,
-        "replies": 121, "retuits": 221
+        "liked": true, "likes": 111, "dislikes":11,"disliked": false,
+        "replies": 111, "retuits": 111
     },
 ];
